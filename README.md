@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anwesha05
-- 👀 I’m interested in Web Developement,Graphic Designing ...
-- 🌱 I’m currently learning C,Python...
+- 👀 I’m interested in Android Application development, full stack development, backend technologies.
 
 
 <!---
